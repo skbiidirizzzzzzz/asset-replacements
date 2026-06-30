@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": ""C:\Users\imdsa\Downloads\AUG_Icon.webp""
+    }
+  ]
+}
